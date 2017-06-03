@@ -1,6 +1,6 @@
-def dodawanie():
-	a = ini(input())
-	b = ini(input())
-		print(a+b)
+def dodawanie(a,b):
+	wynik = a + b
+	return wynik
 		
 dodawanie()
+
