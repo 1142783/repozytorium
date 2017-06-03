@@ -1,1 +1,6 @@
-print "Halo world"
+def dodawanie():
+	a = ini(input())
+	b = ini(input())
+		print(a+b)
+		
+dodawanie()
